@@ -450,3 +450,121 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 File: assets/tan-malaka.png Graphic file (type png)
 <use assets/tan-malaka.png>
 Package pdftex.def Info: assets/tan-malaka.png  used on input line 19.
+(pdftex.def)             Requested size: 295.58357pt x 451.68639pt.
+ [2 <./assets/tan-malaka.png>] (./tan-malaka-translation.toc
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1.
+ (/usr/local/texlive/2023basic/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 1.
+ (/usr/local/texlive/2023basic/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1.
+ (/usr/local/texlive/2023basic/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 1.
+ [1]) [2] (./chapters/introduction.tex [1
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 53.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 53.
+ [2] [3] [4]) [5] (./chapters/chapter1.tex [1
+
+] [2] [3]) [4] (./chapters/chapter2.tex [5
+
+] [6] [7] [8] [9] [10]) [11] (./chapters/chapter3.tex [12
+
+]
+Overfull \hbox (7.36037pt too wide) in paragraph at lines 29--32
+[]\OT1/lmr/m/n/12 The dif-fer-ences in the meth-ods of ex-tor-tion and op-pres-sion of the colonised
+ []
+
+[13] [14] [15] [16] [17] [18] [19]) [20] (./chapters/chapter4.tex [21
+
+] [22] [23] [24] [25]
+Overfull \hbox (2.5827pt too wide) in paragraph at lines 177--179
+\OT1/lmr/m/n/12 ex-ports in 1924, f 491,100,000 or 32.% of to-tal ex-ports. Rub-ber f 202,600,000,
+ []
+
+[26]) [27] (./chapters/chapter5.tex [28
+
+] [29]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 69.
+ (/usr/local/texlive/2023basic/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [30{/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [31] [32] [33] [34] [35] [36]) [37] (./chapters/chapter6.tex
+Overfull \hbox (1.54698pt too wide) in paragraph at lines 20--29
+[]\OT1/lmr/m/n/12 In ad-vanced cap-i-tal-ist coun-tries, so-cial con-flict is di-vided into two classes:
+ []
+
+[38
+
+] [39] [40] [41] [42]) [43] (./chapters/chapter7.tex) [44
+
+] (./chapters/chapter8.tex) [45
+
+] (./chapters/chapter9.tex) [46
+
+] (./chapters/chapter10.tex) [47
+
+] (./chapters/chapter11.tex) [48
+
+] (./chapters/chapter12.tex) [49
+
+] (./chapters/appendix.tex [50
+
+]
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 42.
+
+
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+ [51]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+ [52])
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 101.
+
+
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+ [53]
+\tf@toc=\write4
+\openout4 = `tan-malaka-translation.toc'.
+
+ (./tan-malaka-translation.aux) ) 
+Here is how much of TeX's memory you used:
+ 5443 strings out of 477476
+ 83460 string characters out of 5824244
+ 1859388 words of memory out of 5000000
+ 25604 multiletter control sequences out of 15000+600000
+ 573055 words of font info for 66 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 57i,12n,62p,666b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
+Output written on tan-malaka-translation.pdf (62 pages, 615685 bytes).
+PDF statistics:
+ 256 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
