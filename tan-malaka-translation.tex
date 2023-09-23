@@ -1,0 +1,99 @@
+\documentclass[12pt, oneside, a4paper]{memoir}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{indentfirst}
+\usepackage{parskip}
+
+% \renewcommand\thesection{\Alph{section}}
+
+\begin{document}
+
+    \input{titlepage}
+    \newpage
+
+    \begin{center}
+        \thispagestyle{empty}
+        \includegraphics[scale=1]{assets/tan-malaka.png}\\
+        \textbf{Tan Malaka : Father of the Republic}
+        \newpage
+    \end{center}
+
+    \pagenumbering{gobble}
+    \tableofcontents
+    \newpage
+
+    \chapter{\centering Introduction}
+    \pagenumbering{Roman}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/introduction.tex}
+    \newpage
+
+    \pagenumbering{arabic}
+    \chapter{\centering Revolution}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter1.tex}
+
+    \chapter{\centering Overview of Indonesian History}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter2.tex}
+
+    \chapter{\centering Different Types of Imperialism}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter3.tex}
+
+    \chapter{\centering Indonesian Capitalism}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter4.tex}
+
+    \chapter{\centering Conditions of the Indonesian People}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter5.tex}
+
+    \chapter{\centering Social Circumstances}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter6.tex}
+
+    \chapter{\centering Political Circumstances}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter7.tex}
+
+    \chapter{\centering Revolution in Indonesia}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter8.tex}
+
+    \chapter{\centering The Tools of our Revolution}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter9.tex}
+
+    \chapter{\centering A Glimpse of the Indepedence Movement in Indonesia}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter10.tex}
+
+    \chapter{\centering Federation of the Republics of Indonesia}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter11.tex}
+
+    \chapter{\centering Dreams of a Revolutionary}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/chapter12.tex}
+
+    \chapter{\centering Appendix : Draft for a Proletarian Programme in Indonesia}
+    \hrule
+    \vspace*{1cm}
+    \input{chapters/appendix.tex}
+
+\end{document}
