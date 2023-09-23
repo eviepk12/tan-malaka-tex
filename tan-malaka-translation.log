@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  23 SEP 2023 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  23 SEP 2023 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -503,21 +503,21 @@ Overfull \hbox (2.5827pt too wide) in paragraph at lines 177--179
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 69.
  (/usr/local/texlive/2023basic/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [30{/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [31] [32] [33] [34]) [35] (./chapters/chapter6.tex) [36
+) [30{/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [31] [32] [33] [34] [35] [36]) [37] (./chapters/chapter6.tex) [38
 
-] (./chapters/chapter7.tex) [37
+] (./chapters/chapter7.tex) [39
 
-] (./chapters/chapter8.tex) [38
+] (./chapters/chapter8.tex) [40
 
-] (./chapters/chapter9.tex) [39
+] (./chapters/chapter9.tex) [41
 
-] (./chapters/chapter10.tex) [40
+] (./chapters/chapter10.tex) [42
 
-] (./chapters/chapter11.tex) [41
+] (./chapters/chapter11.tex) [43
 
-] (./chapters/chapter12.tex) [42
+] (./chapters/chapter12.tex) [44
 
-] (./chapters/appendix.tex [43
+] (./chapters/appendix.tex [45
 
 ]
 
@@ -529,10 +529,10 @@ either increase the head height or redesign the header
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
- [44]
+ [46]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
- [45])
+ [47])
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
@@ -542,7 +542,7 @@ either increase the head height or redesign the header
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
- [46]
+ [48]
 \tf@toc=\write4
 \openout4 = `tan-malaka-translation.toc'.
 
@@ -556,10 +556,10 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  57i,12n,62p,666b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on tan-malaka-translation.pdf (55 pages, 598420 bytes).
+Output written on tan-malaka-translation.pdf (57 pages, 603499 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
+ 240 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

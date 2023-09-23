@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695457624 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695457628 0
+["pdflatex"] 1695460496 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695460500 0
   "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" 1695341470 2265 67e197a67580776c9d986a6d040cd951 ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -79,15 +79,15 @@
   "chapters/chapter2.tex" 1695298817 15140 5c81c2c7a8bc1a40ab65a9f056c06f7d ""
   "chapters/chapter3.tex" 1695298825 19807 d6eb36bf4990efc46a0b547bf07efae7 ""
   "chapters/chapter4.tex" 1695298837 15033 051b9c90f58fbacff8c8a4ad2e637be2 ""
-  "chapters/chapter5.tex" 1695457623 16554 8b5a5dc3aca29638c0a6440a7f229368 ""
+  "chapters/chapter5.tex" 1695460496 21884 57d6be79119b069557eda073198e032a ""
   "chapters/chapter6.tex" 1694924058 0 d41d8cd98f00b204e9800998ecf8427e ""
   "chapters/chapter7.tex" 1695169402 210 1393e73c17e2fd095f6b87a53a281921 ""
   "chapters/chapter8.tex" 1695169448 104 d2fc707e2e2a7b14990f0ba5e6fdc33e ""
   "chapters/chapter9.tex" 1695169545 118 0f0afb7e3712e0fc4ae3b58b7a4e2c2e ""
   "chapters/introduction.tex" 1695298706 10486 7779a49e5bb351af9a1a64d80b0cb63d ""
-  "tan-malaka-translation.aux" 1695457627 7462 228012bd051454a9f261093499bf0aaf "pdflatex"
+  "tan-malaka-translation.aux" 1695460500 7462 b9840e9f5e632ccaf61ac91b0367b97a "pdflatex"
   "tan-malaka-translation.tex" 1695341470 2265 67e197a67580776c9d986a6d040cd951 ""
-  "tan-malaka-translation.toc" 1695457627 4055 02170afef2ba497cf32309d634c0938d "pdflatex"
+  "tan-malaka-translation.toc" 1695460500 4055 9c4632a3458aed8ac6b8b683109e64c9 "pdflatex"
   "titlepage.tex" 1695088095 434 2b044a1d1100727778c8c86f5fcf3670 ""
   (generated)
   "tan-malaka-translation.aux"
