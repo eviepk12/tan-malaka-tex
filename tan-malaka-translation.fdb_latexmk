@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695474918 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695474922 0
+["pdflatex"] 1695529926 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695529933 0
   "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -81,13 +81,13 @@
   "chapters/chapter4.tex" 1695470483 14829 cfdd301e8117789a3805e133980c3eb2 ""
   "chapters/chapter5.tex" 1695470497 21584 29baa7fc909f75c6ae4318af8e71c753 ""
   "chapters/chapter6.tex" 1695474914 12773 01704159fe94af916f005f90232e592d ""
-  "chapters/chapter7.tex" 1695169402 210 1393e73c17e2fd095f6b87a53a281921 ""
+  "chapters/chapter7.tex" 1695529923 5664 4740433573d02c4e45df6ffbf64623c8 ""
   "chapters/chapter8.tex" 1695169448 104 d2fc707e2e2a7b14990f0ba5e6fdc33e ""
   "chapters/chapter9.tex" 1695169545 118 0f0afb7e3712e0fc4ae3b58b7a4e2c2e ""
   "chapters/introduction.tex" 1695470520 10342 db7fa1d1d0a9cacb3a2854694e49d06b ""
-  "tan-malaka-translation.aux" 1695474921 7462 f2a4d8556a0ee4239d562b4052be9d45 "pdflatex"
+  "tan-malaka-translation.aux" 1695529933 7453 3a1646cb5e3faa3b04317c1a4a6cc214 "pdflatex"
   "tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
-  "tan-malaka-translation.toc" 1695474921 4055 18a860be91b6dad7d823e5c9f88e680c "pdflatex"
+  "tan-malaka-translation.toc" 1695529933 4046 c36a377d6ba42ec28628c2e6455cdae1 "pdflatex"
   "titlepage.tex" 1695088095 434 2b044a1d1100727778c8c86f5fcf3670 ""
   (generated)
   "tan-malaka-translation.aux"
