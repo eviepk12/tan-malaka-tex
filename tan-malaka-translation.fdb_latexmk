@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695544603 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695544606 0
+["pdflatex"] 1695549629 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695549634 0
   "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -81,13 +81,13 @@
   "chapters/chapter4.tex" 1695470483 14829 cfdd301e8117789a3805e133980c3eb2 ""
   "chapters/chapter5.tex" 1695470497 21584 29baa7fc909f75c6ae4318af8e71c753 ""
   "chapters/chapter6.tex" 1695474914 12773 01704159fe94af916f005f90232e592d ""
-  "chapters/chapter7.tex" 1695544602 15716 3e7cfb737be459a0b55d5b732e01b085 ""
-  "chapters/chapter8.tex" 1695169448 104 d2fc707e2e2a7b14990f0ba5e6fdc33e ""
+  "chapters/chapter7.tex" 1695548922 15723 1967025650a264ef005e591a508b3ca9 ""
+  "chapters/chapter8.tex" 1695549627 6413 890ca13db14bc19e8f8ef4fde50a8e03 ""
   "chapters/chapter9.tex" 1695169545 118 0f0afb7e3712e0fc4ae3b58b7a4e2c2e ""
   "chapters/introduction.tex" 1695470520 10342 db7fa1d1d0a9cacb3a2854694e49d06b ""
-  "tan-malaka-translation.aux" 1695544606 7446 941c0d6328eae60363c8d5a76a012d82 "pdflatex"
+  "tan-malaka-translation.aux" 1695549634 7446 b93a470df356c7fa20e044cde2cb4e61 "pdflatex"
   "tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
-  "tan-malaka-translation.toc" 1695544606 4039 a4c38700ffdd09343f769d2772b05fb0 "pdflatex"
+  "tan-malaka-translation.toc" 1695549634 4039 80d803402ea61bacf524cf4bc89c6d3e "pdflatex"
   "titlepage.tex" 1695088095 434 2b044a1d1100727778c8c86f5fcf3670 ""
   (generated)
   "tan-malaka-translation.aux"
