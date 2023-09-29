@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  24 SEP 2023 17:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  29 SEP 2023 09:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,14 +474,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 53.
+(Font)              <10> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 53.
+(Font)              <7> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 53.
+(Font)              <5> on input line 59.
  [2] [3] [4]) [5] (./chapters/chapter1.tex [1
 
-] [2] [3]) [4] (./chapters/chapter2.tex [5
+] [2]) [3] [4] (./chapters/chapter2.tex [5
 
 ] [6] [7] [8] [9] [10]) [11] (./chapters/chapter3.tex [12
 
@@ -566,7 +566,7 @@ Here is how much of TeX's memory you used:
  319 hyphenation exceptions out of 8191
  57i,12n,62p,666b,289s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
-Output written on tan-malaka-translation.pdf (72 pages, 641912 bytes).
+Output written on tan-malaka-translation.pdf (72 pages, 642649 bytes).
 PDF statistics:
  287 PDF objects out of 1000 (max. 8388607)
  191 compressed objects within 2 object streams

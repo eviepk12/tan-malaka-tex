@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695549629 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695549634 0
+["pdflatex"] 1695954624 "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" "tan-malaka-translation.pdf" "tan-malaka-translation" 1695954626 0
   "/Users/zainal/Documents/writing/tan-malaka-tex/tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -72,7 +72,7 @@
   "/usr/local/texlive/2023basic/texmf.cnf" 1678817979 628 bde3cc671e29677eea4172140533535c ""
   "assets/tan-malaka.png" 1695015060 261569 a5d1582beacc60e2deeee1d473c389f5 ""
   "chapters/appendix.tex" 1695460989 5465 9043cf54d9ffa197ee45cb15f301d67b ""
-  "chapters/chapter1.tex" 1695470442 6452 cf0dce4813a128b83b14c1103658ee5a ""
+  "chapters/chapter1.tex" 1695954624 6468 b19d69d2a0edbb05bdf05f1024c60122 ""
   "chapters/chapter10.tex" 1695169623 194 36db5d2a505e34b7ba5c900b29a53000 ""
   "chapters/chapter11.tex" 1694924056 0 d41d8cd98f00b204e9800998ecf8427e ""
   "chapters/chapter12.tex" 1694924055 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -84,10 +84,10 @@
   "chapters/chapter7.tex" 1695548922 15723 1967025650a264ef005e591a508b3ca9 ""
   "chapters/chapter8.tex" 1695549627 6413 890ca13db14bc19e8f8ef4fde50a8e03 ""
   "chapters/chapter9.tex" 1695169545 118 0f0afb7e3712e0fc4ae3b58b7a4e2c2e ""
-  "chapters/introduction.tex" 1695470520 10342 db7fa1d1d0a9cacb3a2854694e49d06b ""
-  "tan-malaka-translation.aux" 1695549634 7446 b93a470df356c7fa20e044cde2cb4e61 "pdflatex"
+  "chapters/introduction.tex" 1695954159 10531 1d617c8209f305d6db512c3e3708db22 ""
+  "tan-malaka-translation.aux" 1695954625 7446 b93a470df356c7fa20e044cde2cb4e61 "pdflatex"
   "tan-malaka-translation.tex" 1695470411 2300 6964a2ccfa2d216a18bb234cd31664ee ""
-  "tan-malaka-translation.toc" 1695549634 4039 80d803402ea61bacf524cf4bc89c6d3e "pdflatex"
+  "tan-malaka-translation.toc" 1695954625 4039 80d803402ea61bacf524cf4bc89c6d3e "pdflatex"
   "titlepage.tex" 1695088095 434 2b044a1d1100727778c8c86f5fcf3670 ""
   (generated)
   "tan-malaka-translation.aux"
