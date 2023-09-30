@@ -33,23 +33,23 @@
 \contentsline {section}{\numberline {9.1}The High Probability of Revolution}{52}{}%
 \contentsline {section}{\numberline {9.2}The Emerging Nature of the Indonesian Revolution}{53}{}%
 \contentsline {chapter}{\chapternumberline {10}\centering The Tools of our Revolution}{56}{}%
-\contentsline {section}{\numberline {10.1}Parties and Their Characteristics}{56}{}%
-\contentsline {section}{\numberline {10.2}Our National Programme}{56}{}%
-\contentsline {section}{\numberline {10.3}Party Duties and Organisation}{56}{}%
-\contentsline {chapter}{\chapternumberline {11}\centering A Glimpse of the Indepedence Movement in Indonesia}{57}{}%
-\contentsline {section}{\numberline {11.1}The Failure of the Bourgeois Party}{57}{}%
-\contentsline {subsection}{Budi Utomo}{57}{}%
-\contentsline {subsection}{National Indische Party}{57}{}%
-\contentsline {subsection}{Sarekat Islam}{57}{}%
-\contentsline {section}{\numberline {11.2}What Now?}{57}{}%
-\contentsline {section}{\numberline {11.3}De Indonesische Studieclub}{57}{}%
-\contentsline {chapter}{\chapternumberline {12}\centering Federation of the Republics of Indonesia}{58}{}%
-\contentsline {chapter}{\chapternumberline {13}\centering Dreams of a Revolutionary}{59}{}%
-\contentsline {chapter}{\chapternumberline {14}\centering Appendix : Draft for a Proletarian Programme in Indonesia}{60}{}%
-\contentsline {section}{\numberline {14.1}Politics}{60}{}%
-\contentsline {section}{\numberline {14.2}Economy}{60}{}%
-\contentsline {section}{\numberline {14.3}Social}{61}{}%
-\contentsline {section}{\numberline {14.4}Education}{62}{}%
-\contentsline {section}{\numberline {14.5}Military}{62}{}%
-\contentsline {section}{\numberline {14.6}Police and Justiciary}{62}{}%
-\contentsline {section}{\numberline {14.7}Action Programmes}{62}{}%
+\contentsline {section}{\numberline {10.1}Parties and its Characteristics}{62}{}%
+\contentsline {section}{\numberline {10.2}Our National Programme}{63}{}%
+\contentsline {section}{\numberline {10.3}Party Duties and Organisation}{63}{}%
+\contentsline {chapter}{\chapternumberline {11}\centering A Glimpse of the Indepedence Movement in Indonesia}{69}{}%
+\contentsline {section}{\numberline {11.1}The Failure of the Bourgeois Party}{69}{}%
+\contentsline {subsection}{Budi Utomo}{69}{}%
+\contentsline {subsection}{National Indische Party}{69}{}%
+\contentsline {subsection}{Sarekat Islam}{69}{}%
+\contentsline {section}{\numberline {11.2}What Now?}{69}{}%
+\contentsline {section}{\numberline {11.3}De Indonesische Studieclub}{69}{}%
+\contentsline {chapter}{\chapternumberline {12}\centering Federation of the Republics of Indonesia}{70}{}%
+\contentsline {chapter}{\chapternumberline {13}\centering Dreams of a Revolutionary}{71}{}%
+\contentsline {chapter}{\chapternumberline {14}\centering Appendix : Draft for a Proletarian Programme in Indonesia}{72}{}%
+\contentsline {section}{\numberline {14.1}Politics}{72}{}%
+\contentsline {section}{\numberline {14.2}Economy}{72}{}%
+\contentsline {section}{\numberline {14.3}Social}{73}{}%
+\contentsline {section}{\numberline {14.4}Education}{74}{}%
+\contentsline {section}{\numberline {14.5}Military}{74}{}%
+\contentsline {section}{\numberline {14.6}Police and Justiciary}{74}{}%
+\contentsline {section}{\numberline {14.7}Action Programmes}{74}{}%
